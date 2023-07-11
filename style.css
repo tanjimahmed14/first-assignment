@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: rgba(229, 84, 115, 0.1);
+    height: 600px;
+    display: flex;
+}
+
+.main-header {
+    display: flex;
+    align-items: center;
+}
+
+.main-header .pic {
+    width: 460px;
+    height: 600px;
+    margin-right: 150px;
+}
+
+.caption-text {
+    margin: 30px 30px 30px 150px;
+}
+
+h1.bold {
+    color: #272727;
+    font-size: 70px;
+    font-weight: 650px;
+}
+
+p.hidden-colar {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+button.shop-now {
+    display: flex;
+    padding: 20px 30px;
+    background: #E55473;
+    border-radius: 8px;
+    border: 2px solid #E55473;
+    color: #fff;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+button.shop-now hover {
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2)
+}
