@@ -55,7 +55,24 @@ button.shop-now hover {
 }
 
 .featured-contant {
-    text-align: center;
     margin-top: 120px;
-    margin: 200px 0px 200px;
+    text-align: center;
+
+}
+
+.row {
+    display: flex;
+}
+
+.clm-rpw {
+
+    margin-left: 80px;
+    width: 210px;
+    height: 300px;
+    flex-shrink: 0
+}
+
+.row-img {
+  ;
+
 }
