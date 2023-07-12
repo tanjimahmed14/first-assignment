@@ -28,6 +28,7 @@ h1.bold {
     color: #272727;
     font-size: 70px;
     font-weight: 650px;
+
 }
 
 p.hidden-colar {
@@ -267,4 +268,14 @@ footer {
 h1.foot {
     font-size: 50px;
     font-family: sans-serif;
+}
+
+p.foot-p {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 15px;
+}
+
+p.foot-p-1 {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
 }
