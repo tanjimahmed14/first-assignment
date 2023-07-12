@@ -60,19 +60,74 @@ button.shop-now hover {
 
 }
 
+.bold-black {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+h1.bold-black {
+    font-family: serif;
+    padding: 20px;
+}
+
+.normal-white {
+
+    line-height: 30px;
+    font-size: 15px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: cursive;
+    margin-bottom: 50px;
+}
+
 .row {
     display: flex;
+    padding: 10px;
 }
 
-.clm-rpw {
 
-    margin-left: 80px;
-    width: 210px;
-    height: 300px;
-    flex-shrink: 0
+.clm {
+    margin-right: 20px;
+    margin-left: 90px;
 }
 
-.row-img {
-  ;
+img.clm-pic1 {
+    width: 250px;
+    background: red;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15)
+}
 
+img.clm-pic2 {
+    width: 261px;
+    background: red;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+img.clm-pic3 {
+    width: 230px;
+    background: red;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+p.p-center {
+    text-align: center;
+    margin: 20px;
+    font-family: cursive;
+    font-size: 20px;
 }
