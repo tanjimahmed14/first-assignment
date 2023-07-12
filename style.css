@@ -53,3 +53,9 @@ button.shop-now {
 button.shop-now hover {
     box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2)
 }
+
+.featured-contant {
+    text-align: center;
+    margin-top: 120px;
+    margin: 200px 0px 200px;
+}
